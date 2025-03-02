@@ -23,6 +23,8 @@ public class day1 {
 	public void demo()
 	{
 		System.out.println("Smoke Test Case 1");
+		System.out.println("Smoke Test Case 2");
+		System.out.println("Smoke Test Case 3");
 	}
 
 	@Test
