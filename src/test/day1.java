@@ -25,6 +25,10 @@ public class day1 {
 		System.out.println("Smoke Test Case 1");
 		System.out.println("Smoke Test Case 2");
 		System.out.println("Smoke Test Case 3");
+		//Changes from GitX User
+		System.out.println("Smoke Test Case 1");
+		System.out.println("Smoke Test Case 2");
+		System.out.println("Smoke Test Case 3");
 	}
 
 	@Test
