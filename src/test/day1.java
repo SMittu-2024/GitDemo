@@ -12,6 +12,7 @@ public class day1 {
 	{
 		System.out.println("Executing Before Class Day1!");
 		System.out.println("Architect1 on GitDemo!");
+		System.out.println("Architect2 on GitX!");
 	}
 	
 	@AfterClass
